@@ -1,26 +1,16 @@
 {
-  "files": {
-    "main.css": "/static/css/main.b2747931.chunk.css",
-    "main.js": "/static/js/main.b8dba7dd.chunk.js",
-    "main.js.map": "/static/js/main.b8dba7dd.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ef2604df.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ef2604df.js.map",
-    "static/js/2.fce0cd4d.chunk.js": "/static/js/2.fce0cd4d.chunk.js",
-    "static/js/2.fce0cd4d.chunk.js.map": "/static/js/2.fce0cd4d.chunk.js.map",
-    "static/js/3.51b09183.chunk.js": "/static/js/3.51b09183.chunk.js",
-    "static/js/3.51b09183.chunk.js.map": "/static/js/3.51b09183.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.b2747931.chunk.css.map": "/static/css/main.b2747931.chunk.css.map",
-    "static/js/2.fce0cd4d.chunk.js.LICENSE.txt": "/static/js/2.fce0cd4d.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/bg.8b50c3a4.jpg",
-    "static/media/ib-logo.ed409ec2.svg": "/static/media/ib-logo.ed409ec2.svg",
-    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
-    "static/media/tree.4a0e81f6.png": "/static/media/tree.4a0e81f6.png"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.ef2604df.js",
-    "static/js/2.fce0cd4d.chunk.js",
-    "static/css/main.b2747931.chunk.css",
-    "static/js/main.b8dba7dd.chunk.js"
-  ]
+  "main.css": "/static/css/main.51b06a54.chunk.css",
+  "main.js": "/static/js/main.ad0cb9fb.chunk.js",
+  "main.js.map": "/static/js/main.ad0cb9fb.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+  "static/js/2.0845f9c5.chunk.js": "/static/js/2.0845f9c5.chunk.js",
+  "static/js/2.0845f9c5.chunk.js.map": "/static/js/2.0845f9c5.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.e7a47d406abb03daca313cf932a3ab93.js": "/precache-manifest.e7a47d406abb03daca313cf932a3ab93.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.51b06a54.chunk.css.map": "/static/css/main.51b06a54.chunk.css.map",
+  "static/media/index.css": "/static/media/bg2.30ab269f.jpeg",
+  "static/media/ib-logo.svg": "/static/media/ib-logo.e13277cb.svg",
+  "static/media/tree.png": "/static/media/tree.ede2f445.png"
 }
